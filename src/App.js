@@ -12,7 +12,7 @@ const App = () => {
       <div className="container" style={{  backgroundImage: 'url("bg-hex.jpg")', backgroundRepeat: 'no-repeat', backgroundSize: 'cover', height: '100vh', width: '100vw' }}>
         <div className="content" style={{ paddingTop: '150px' }}>
           <div style={{display: 'flex', height: '100%', margin: 'auto', justifyContent: 'center'}}>
-            <div style={{ flex: 0.5}}>
+            <div>
               <img src={sideImage} alt="side_image" />
             </div>
             <div style={{
