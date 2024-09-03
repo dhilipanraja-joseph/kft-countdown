@@ -70,10 +70,10 @@ const App = () => {
 
               <div className="button">
                 <p>
-                  email <a style={contactStyle} href={`mailto:${contactEmail}`}>{contactEmail}</a>
+                  Email : <a style={contactStyle} href={`mailto:${contactEmail}`}>{contactEmail}</a>
                 </p>
                 <p>
-                  phone <span style={contactStyle}>+420 777610042</span>
+                  Phone : <span style={contactStyle}>+420 777610042</span>
                 </p>
               </div>
             </div>
