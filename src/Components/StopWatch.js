@@ -4,7 +4,7 @@ import TimerStyled from './TimerStyled';
 
 function MyStopwatch() {
 
-    const endDate = new Date('09/10/2024');
+    const endDate = new Date('09/13/2024');
 
     const stopwatchOffset = new Date() 
         
